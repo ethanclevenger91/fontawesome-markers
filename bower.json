@@ -17,5 +17,9 @@
   ],
   "dependencies": {
     "fontawesome": "~4.3.0"
-  }
+  },
+  "main": [
+    "fontawesome-markers.json",
+    "fontawesome-markers.min.js"
+  ]
 }

@@ -10,7 +10,7 @@ NOTE: The extractor is only necessary if you want to try and export your own web
 
 ##How to
 ###For Font Awesome
-Update the bower package and run `extract.sh`
+Install/update the bower package and run `extract.sh`
 
 ###For all others
 You need two files:
