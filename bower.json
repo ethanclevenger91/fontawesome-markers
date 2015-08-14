@@ -16,7 +16,7 @@
     "tests"
   ],
   "dependencies": {
-    "fontawesome": "~4.3.0"
+    "fontawesome": ">=4.3.0"
   },
   "main": [
     "fontawesome-markers.json",
